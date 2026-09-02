@@ -197,7 +197,6 @@ Minha experiência anterior me ensinou a trabalhar com **precisão, lógica, pro
 Na programação, estou aplicando esses mesmos princípios para transformar problemas em **soluções digitais**.
 
 ---
-
 ## 🎯 Objetivo
 
 Meu objetivo profissional é construir uma carreira sólida em **Desenvolvimento de Software** e, futuramente, atuar como **Engenheiro de Software**.
@@ -210,8 +209,6 @@ Ainda estou no começo dessa jornada, mas cada projeto representa mais um passo.
 
 ---
 <br/>
-
----
 
 ## 🌎 Vamos construir juntos?
 

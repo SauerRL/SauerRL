@@ -209,24 +209,6 @@ Ainda estou no começo dessa jornada, mas cada projeto representa mais um passo.
 > **"Não estou apenas aprendendo a programar. Estou construindo a minha carreira em tecnologia."**
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
-
-</p>
-
-<br/>
 <br/>
 
 ---
